@@ -93,6 +93,36 @@ span i {
     bottom: 25px;
 }
 
+/* secondary nav */
+
+.secondary-nav {
+    margin-left: 155px;
+    font-size: 0.85em;
+    padding: 1px 4px;
+}
+
+#settings {
+    margin-left: 50px;
+}
+
+.secondary-nav li a:hover {
+    color: cornflowerblue;
+}
+
+#tools a {
+    padding: 5px 10px;
+}
+
+#tools a:hover {
+    background: whitesmoke;
+    color: dimgray;
+    padding: 5px 10px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+}
+
+
+
 /* Search Results Section */
 
 .results {
@@ -179,6 +209,7 @@ footer nav{
 }
 
 /* List styles */
+
 ul {
     margin: 10px;
 }

@@ -197,20 +197,20 @@ span i {
 
 .company-links {
     display: flex;
-    max-width: 400px;
+    max-width: 450px;
     font-size: 0.8em;
-    
 }
 
+
 .company-links div {
-    flex: 1 1 50px;
+    flex: 1 1 60px;
     overflow: hidden;
 }
 
 .company-links img {
     height: 60px;
     width: 60px;
-    margin: 10px 0px;
+    margin: 10px 10px 0px 0px;
 }
 
 /* Footer Navigation */

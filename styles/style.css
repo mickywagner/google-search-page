@@ -243,3 +243,8 @@ ul li {
 nav a {
     text-decoration: none;
 }
+
+/* pagination */
+.pagination {
+    margin: 0 auto;
+}

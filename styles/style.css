@@ -247,4 +247,44 @@ nav a {
 /* pagination */
 .pagination {
     margin: 0 auto;
+    text-align: center;
 }
+
+.pagination span {
+height: 40px;
+display: block;
+}
+
+.pagination a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.pagination a:hover {
+    text-decoration: underline;
+}
+
+.p-start {
+    background: url(https://www.google.com/images/nav_logo299.png) no-repeat;
+    background-position: -24px 0;
+    width: 28px;
+}
+
+.red-o {
+    background: url(https://www.google.com/images/nav_logo299.png) no-repeat;
+    background-position: -53px 0;
+    width: 20px;
+}
+
+.yel-o {
+    background: url(https://www.google.com/images/nav_logo299.png) no-repeat;
+    background-position: -75px 0;
+    width: 20px;
+}
+
+.p-end{
+    background: url(https://www.google.com/images/nav_logo299.png) no-repeat;
+    background-position: -95px 0;
+    width: 100px;
+}
+

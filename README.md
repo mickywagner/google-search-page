@@ -6,7 +6,7 @@
 using HTML and CSS to re-create either the Google homepage or the search results. I did both (this is the search page and <a href="https://mickywagner.github.io/google-homepage/">here is the homepage</a>).
 </p>
 
-<p>Full project brief <a href="https://www.theodinproject.com/courses/web-development-101/lessons/html-css">here</a></p>
+<p>Full project brief <a href="https://www.theodinproject.com/courses/web-development-101/lessons/html-css">here</a>.</p>
 <p>Live version <a href="https://mickywagner.github.io/google-search-page/">here</a>.</p>
 
 

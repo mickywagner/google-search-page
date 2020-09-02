@@ -1,5 +1,5 @@
 <h3>Screenshots</h3>
-<img src="page.png">
+<img src="page.gif">
 
 <h3>About This Project</h3>
 <p>The classic Google Homepage clone. I made for the Web Developmentcourse on <a href="https://www.theodinproject.com/">Odin Project</a>. The idea was to just practice
